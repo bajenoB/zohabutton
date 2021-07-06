@@ -1,0 +1,9 @@
+C:\Users\student\Source\Repos\bajenoB\zohabutton\zohabutton\zohabutton\bin\Debug\zohabutton.exe.config
+C:\Users\student\Source\Repos\bajenoB\zohabutton\zohabutton\zohabutton\bin\Debug\zohabutton.exe
+C:\Users\student\Source\Repos\bajenoB\zohabutton\zohabutton\zohabutton\bin\Debug\zohabutton.pdb
+C:\Users\student\Source\Repos\bajenoB\zohabutton\zohabutton\zohabutton\obj\Debug\zohabutton.csprojAssemblyReference.cache
+C:\Users\student\Source\Repos\bajenoB\zohabutton\zohabutton\zohabutton\obj\Debug\zohabutton.Properties.Resources.resources
+C:\Users\student\Source\Repos\bajenoB\zohabutton\zohabutton\zohabutton\obj\Debug\zohabutton.csproj.GenerateResource.cache
+C:\Users\student\Source\Repos\bajenoB\zohabutton\zohabutton\zohabutton\obj\Debug\zohabutton.csproj.CoreCompileInputs.cache
+C:\Users\student\Source\Repos\bajenoB\zohabutton\zohabutton\zohabutton\obj\Debug\zohabutton.exe
+C:\Users\student\Source\Repos\bajenoB\zohabutton\zohabutton\zohabutton\obj\Debug\zohabutton.pdb
